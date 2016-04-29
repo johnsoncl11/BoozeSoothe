@@ -1,0 +1,10 @@
+U:\SoftEng\BoozeSootheProject\BoozeSootheProject\bin\BoozeSootheProject.dll.config
+U:\SoftEng\BoozeSootheProject\BoozeSootheProject\bin\BoozeSootheProject.dll
+U:\SoftEng\BoozeSootheProject\BoozeSootheProject\bin\BoozeSootheProject.pdb
+U:\SoftEng\BoozeSootheProject\BoozeSootheProject\bin\WebForms_Basic.xml
+U:\SoftEng\BoozeSootheProject\BoozeSootheProject\obj\Debug\BoozeSootheProject.Resources.resources
+U:\SoftEng\BoozeSootheProject\BoozeSootheProject\obj\Debug\BoozeSootheProject.vbproj.GenerateResource.Cache
+U:\SoftEng\BoozeSootheProject\BoozeSootheProject\obj\Debug\BoozeSootheProject.dll
+U:\SoftEng\BoozeSootheProject\BoozeSootheProject\obj\Debug\WebForms_Basic.xml
+U:\SoftEng\BoozeSootheProject\BoozeSootheProject\obj\Debug\BoozeSootheProject.pdb
+U:\SoftEng\BoozeSootheProject\BoozeSootheProject\obj\Debug\BoozeSootheProject.vbprojResolveAssemblyReference.cache
